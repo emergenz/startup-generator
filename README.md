@@ -1,24 +1,3 @@
-# my-project
+# [startup-generator](https://sweet-rugelach-3d876a.netlify.app/) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/emergenz/startup-generator/blob/main/LICENSE)
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Ever wondered how easy it is to get funding in the startup-bubble-era? Generate a new startup, pitch it and see for yourself. 
